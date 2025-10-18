@@ -8,10 +8,12 @@ Date: October 17th, 2025
 
 Area/Volume Calculator
 
-A comprehensive Python-based calculator for computing volumes of various 3D geometric shapes. Built as part of TPRG 2131 - Programming for Technology II.
-Features
-The calculator supports volume calculations for 14 different 3D shapes:
+A comprehensive Python-based calculator for computing volumes of various 3D geometric shapes. Built as part of TPRG.
 
+
+Features
+
+The calculator supports volume calculations for 14 different 3D shapes:
 
 Basic Shapes
 
@@ -20,7 +22,6 @@ Cone - V = (1/3) × π × r² × h
 Sphere - V = (4/3) × π × r³
 Cylinder - V = π × r² × h
 Square Pyramid - V = (1/3) × b² × h
-
 
 Advanced Shapes
 
